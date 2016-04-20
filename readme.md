@@ -1,6 +1,6 @@
 #GEO data
 
-geojson files
+geojson files (and some shapefiles too (but mainly geojson))
 
 ##UK
 
