@@ -6,7 +6,7 @@ geojson files (and some shapefiles too (but mainly geojson))
 ## Before you start
  * As the repository has large shape files you should install <a href="https://git-lfs.github.com/">git lfs</a>
  * check the licence under which the original data has been put into the world
- * if the data has been made by us decide upon an approprate licence by publishing on a public github  repo you allow github users some rights  
+ * if the geo-data has been created/ researched by us (the FT graphics team) decide upon an approprate licence. By publishing on a public github repo we must allow github users some rights "<a href="https://help.github.com/articles/open-source-licensing/">Specifically, you allow others to view and fork your repository within the GitHub site</a>"
 
 Reference <a href="https://en.wikipedia.org/wiki/ONS_coding_system">GSS/ONS codes</a>
 
