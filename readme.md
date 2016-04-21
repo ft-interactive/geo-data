@@ -1,6 +1,12 @@
 #GEO data
 
+## What should go in here
 geojson files (and some shapefiles too (but mainly geojson))
+
+## Before you start
+ * As the repository has large shape files you should install <a href="https://git-lfs.github.com/">git lfs</a>
+ * check the licence under which the original data has been put into the world
+ * if the data has been made by us decide upon an approprate licence by publishing on a public github  repo you allow github users some rights  
 
 Reference <a href="https://en.wikipedia.org/wiki/ONS_coding_system">GSS/ONS codes</a>
 
