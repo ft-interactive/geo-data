@@ -19,6 +19,13 @@ Reference <a href="https://en.wikipedia.org/wiki/ONS_coding_system">GSS/ONS code
  * source: Ordnance Survey (https://www.ordnancesurvey.co.uk/business-and-government/products/boundary-line.html) & FT research
  * licence: Open Government Licence v3 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 
+####District borough local authorities
+
+ * geo data: small-local-authorities.topojson, medium-local-authorities.topojson
+ * description: district borough and local authorities, fromt he OS boundary line product (October 2015) but trimmed to the coast line. the `id` of each feature is the ONS GSS Code for the local authority 
+ * source: Ordnance survey (https://www.ordnancesurvey.co.uk/business-and-government/products/boundary-line.html) & diva-gis (http://www.diva-gis.org/)
+ * licence: Open Government Licence v3 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/ 
+
 ###London
 
 ####London wards 2014
