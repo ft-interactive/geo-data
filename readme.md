@@ -59,5 +59,5 @@ Reference <a href="https://en.wikipedia.org/wiki/ONS_coding_system">GSS/ONS code
 
  * geo data: ireland-border.geojson, ireland-border.topojson
  * description: the border of Ireland
- * source diva-gis (http://www.diva-gis.org/)
+ * source: diva-gis (http://www.diva-gis.org/)
 
