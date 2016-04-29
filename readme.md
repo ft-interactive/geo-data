@@ -38,7 +38,7 @@ Reference <a href="https://en.wikipedia.org/wiki/ONS_coding_system">GSS/ONS code
 
 ####London wards 2014
 
- * geo data: London-wards-2014.geojson
+ * geo data: london-wards-2014.geojson
  * description: London ward boundaries 2014 each ward geometry has these properties. (Note City of London is merged into a single shape )
  	* `gss_code_ward` the ONS GSS Code for the ward 
  	* `gss_code_borough` the ONS GSS Code for the containing London borough
@@ -46,4 +46,18 @@ Reference <a href="https://en.wikipedia.org/wiki/ONS_coding_system">GSS/ONS code
  	* `borough` the borough name
  * source: London Data Store http://data.london.gov.uk/dataset/statistical-gis-boundary-files-london
  * licence: Open Government Licence v2 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/
+
+##Europe
+
+###Gibraltar
+
+ * geo data: gibraltar.topojson
+ * description: the border/ coast line of gibraltar
+ * source: diva-gis (http://www.diva-gis.org/)
+
+###Ireland Border
+
+ * geo data: ireland-border.geojson, ireland-border.topojson
+ * description: the border of Ireland
+ * source diva-gis (http://www.diva-gis.org/)
 
