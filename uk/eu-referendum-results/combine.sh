@@ -1,0 +1,2 @@
+mapshaper -i ni-coast.geojson small-local-authorities.geojson -filter-islands min-area=100000000 -o islandless.geojson
+topojson -o combined.topojson --simplify-proportion 0.1 -- islandless.geojson islandless-ms.geojson
