@@ -61,3 +61,10 @@ Reference <a href="https://en.wikipedia.org/wiki/ONS_coding_system">GSS/ONS code
  * description: the border of Ireland
  * source: diva-gis (http://www.diva-gis.org/)
 
+##US
+
+###States and counties
+
+ * geo data: us.topojson
+ * description: the basic topojson file used in D3 mapping examples
+ * source: mbostock
